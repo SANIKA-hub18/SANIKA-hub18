@@ -44,7 +44,9 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/sanika-shaligram-bba910281/)    
-[![Email](shaligramsanika@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanika-shaligram-bba910281/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shaligramsanika@gmail.com)  
+  
 
 
